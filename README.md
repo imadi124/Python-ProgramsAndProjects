@@ -1,2 +1,2 @@
 # Python-Projects
-<p><Strong>Contains Pyhton projects</Strong></p>
+<p><Strong>Contains Python projects</Strong></p>
